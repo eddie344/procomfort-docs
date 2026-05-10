@@ -1,7 +1,6 @@
 # Инструкция по работе с функционалом ROP Role
 
-> **Для кого:** РОП, менеджер, администратор  
-> **Техническая документация** (репозиторий procomfort-api): [HLD](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-role/HLD.md) · [Требования](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-role/requirements.md) · [План работ](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-role/tasks.md) · [Тест-кейсы](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-role/test-cases.md)
+> **Для кого:** РОП, менеджер, администратор
 
 ## 1. Что входит в функционал
 

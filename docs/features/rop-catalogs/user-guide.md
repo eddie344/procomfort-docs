@@ -1,7 +1,6 @@
 # Инструкция по работе с каталогами клиентов
 
-> **Для кого:** администратор, РОП, менеджер  
-> **Техническая документация** (procomfort-api): [HLD](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-catalogs/HLD.md) · [Требования](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-catalogs/requirements.md) · [План работ](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-catalogs/tasks.md) · [Тест-кейсы](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-catalogs/test-cases.md)
+> **Для кого:** администратор, РОП, менеджер
 
 ## 1. Что это за модуль
 

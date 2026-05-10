@@ -1,7 +1,6 @@
 # Инструкция по работе с балансом РОПа
 
-> **Для кого:** РОП, администратор  
-> **Техническая документация** (procomfort-api): [HLD](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-balance/HLD.md) · [Требования](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-balance/requirements.md) · [План работ](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-balance/tasks.md) · [Тест-кейсы](https://github.com/Eddie344/procomfort-api/blob/main/docs/features/rop-balance/test-cases.md)
+> **Для кого:** РОП, администратор
 
 ## 1. Что это за модуль
 
